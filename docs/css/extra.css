@@ -1,0 +1,25 @@
+.content {
+    background-image: url(/assets/images/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2,h1 {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+p,li{
+    color: azure;
+    font-size: 20px;
+    
+}
+
+ul{
+    text-align: center;
+}
+
+a:hover{
+    color: #9580ff;
+}

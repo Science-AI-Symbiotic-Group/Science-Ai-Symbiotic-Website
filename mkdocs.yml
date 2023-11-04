@@ -12,4 +12,7 @@ nav:
   - Electrolysis based soil fertility : soilfertility.md
   
 theme: 
-  name: material
+  name: dracula
+
+extra_css:
+  - css/extra.css
