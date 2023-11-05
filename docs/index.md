@@ -1,6 +1,6 @@
 # The Science Ai Symbiotic Group
 
-The Science Ai Symbiotic Group is a group of students at Seven Square Academy Naigaon (SSAN) where we perform multiple projects that include the usage of Science and Ai/Computer Science hence the name "Science Ai Symbiotic". The members of each project are different but they all are guided by our teacher Kevin Luke sir. More info about him [here](leader.md)
+The Science Ai Symbiotic Group is a group of students at [Seven Square Academy Naigaon (SSAN)](https://naigaon.sevensquareacademy.org/) where we perform multiple projects that include the usage of Science and Ai/Computer Science hence the name "Science Ai Symbiotic". The members of each project are different but they all are guided by our teacher Kevin Luke sir. More info about him [here](leader.md)
 
 ## All our Projects
 
