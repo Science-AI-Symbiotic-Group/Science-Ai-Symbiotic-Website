@@ -3,10 +3,9 @@
 We all watch moon daily high up in the skies wandering through the space. But did we ever think how beautiful and complex the surface of the moon is?
 
 Well, at our group we aim to answer these questions. 
-<figure markdown>
-  ![group](assets/images/team-1.jpg)
-  <figcaption>Some of our members during an observation meet</figcaption>
-</figure>
+![group](assets/images/team-1.jpg)
+(Some of our students with Mr Kevin at moon observations meet)
+ 
 
 
 ## Abstract  
