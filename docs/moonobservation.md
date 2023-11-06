@@ -43,5 +43,6 @@ In conclusion, the Lunar Research Project, enriched by NASA and JAXA data and te
 
 ## Photos
 Students of the group have captured a lot of moon, saturn, jupiter photos from a 6 inch Newtonian reflector telescope.
+More photos are [here](moon_photos.md)
 ![moon](assets/images/moon-2.jpg#moon)
 
