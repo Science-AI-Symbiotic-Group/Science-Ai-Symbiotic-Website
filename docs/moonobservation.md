@@ -3,8 +3,11 @@
 We all watch moon daily high up in the skies wandering through the space. But did we ever think how beautiful and complex the surface of the moon is?
 
 Well, at our group we aim to answer these questions. 
+<figure markdown>
+  ![group](assets/images/team-1.jpg)
+  <figcaption>Some of our members during an observation meet</figcaption>
+</figure>
 
-![group](assets/images/team-1.jpg)
 
 ## Abstract  
 The Lunar Research Project for 8th, 9th, 10th-grade students is a comprehensive educational initiative designed to immerse students in lunar research, fostering scientific inquiry and promoting STEM education. This project offers a unique opportunity for students to actively engage with the Moon by observing its phases, analyzing lunar data, and drawing conclusions about its geological features. Students will collaborate, apply critical thinking skills, and utilize data from NASA and JAXA, including topographical data, terrain height, terrain slope, regolith temperature, and iron oxide abundances. By involving students in authentic lunar research, this project aims to deepen their understanding of lunar geology, inspire an interest in space science,and develop their data analysis and communication skills.
