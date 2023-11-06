@@ -9,6 +9,7 @@
 
 ## Saturn/Jupiter Photos
 ![jupiter](assets/images/jupiter-1.jpg)
+
 ![saturn](assets/images/saturn-3.jpg)
 
 
