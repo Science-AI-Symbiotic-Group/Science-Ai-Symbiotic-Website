@@ -11,12 +11,9 @@ Well, at our group we aim to answer these questions.
 ## Abstract  
 The Lunar Research Project for 8th, 9th, 10th-grade students is a comprehensive educational initiative designed to immerse students in lunar research, fostering scientific inquiry and promoting STEM education. This project offers a unique opportunity for students to actively engage with the Moon by observing its phases, analyzing lunar data, and drawing conclusions about its geological features. Students will collaborate, apply critical thinking skills, and utilize data from NASA and JAXA, including topographical data, terrain height, terrain slope, regolith temperature, and iron oxide abundances. By involving students in authentic lunar research, this project aims to deepen their understanding of lunar geology, inspire an interest in space science,and develop their data analysis and communication skills.
 
-## Problem Statement
-The declining interest and proficiency of students in STEM fields,particularly in space science and geology, is a growing concern. Students often struggle to connect theoretical concepts to real-world applications. The Lunar Research Project addresses these issues by providing 8th-grade students with hands-on experience, encouraging them to work with data from NASA and JAXA, and immersing them in authentic lunar research. By actively participating in the observation, analysis, and communication of lunar data, students can develop a deeper appreciation for science and its practical applications. The project also seeks to enhance their critical thinking skills and inspire them to pursue further studies or careers in
-STEM-related fields. 
 
 ## Methodology
-The Lunar Research Project for 8th-grade students will be conducted through a structured process:
+The Lunar Research Project for  students will be conducted through a structured process:
 
 ### 1. Lunar Observation Journal: 
 The project begins with students individually observing the Moon on different dates, maintaining lunar observation journals with telescope. This phase promotes independent scientific inquiry and systematic data collection.
@@ -45,4 +42,20 @@ In conclusion, the Lunar Research Project, enriched by NASA and JAXA data and te
 Students of the group have captured a lot of moon, saturn, jupiter photos from a 6 inch Newtonian reflector telescope.
 More photos are [here](moon_photos.md)
 ![moon](assets/images/moon-2.jpg#moon)
+
+## Team
+1) Ashadieeyah P. 8th T
+2) Anushreya P. 8th A
+3) Priyamvada S. 8th A
+4) Vaishnavi R. 8th A
+5) Jagruti S. 9th D
+6) Shaurya C. 8th T
+7) Vihaan G. 8th T
+8) Abhinav M. 8th T
+9) Sai G. 8th T
+10) Parv V. 8th T
+11) Shreyansh T. 9th D
+12) Dhruv D. 10th E.
+    
+You will know more about the team [here](team1.md)
 
