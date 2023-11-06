@@ -1,4 +1,4 @@
-# Moon Observation
+# Watch the Moon, Learn the Moon Project
 
 We all watch moon daily high up in the skies wandering through the space. But did we ever think how beautiful and complex the surface of the moon is?
 
