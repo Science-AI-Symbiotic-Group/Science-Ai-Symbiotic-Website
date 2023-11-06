@@ -1,6 +1,6 @@
 # Photos from our project meetups
 
-## Moon Photos
+## Moon Photos 
 ![moon2](assets/images/moon-2.jpg)
 ![moon3](assets/images/moon-3.jpg)
 ![moon4](assets/images/moon-4.jpg)
@@ -9,7 +9,7 @@
 
 ## Saturn/Jupiter Photos
 ![jupiter](assets/images/jupiter-1.jpg)
-![saturn](assets/images/saturn-2.jpg)
+![saturn](assets/images/saturn-3.jpg)
 
 
 
