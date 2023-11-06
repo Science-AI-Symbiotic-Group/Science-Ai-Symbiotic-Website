@@ -9,7 +9,7 @@ Well, at our group we aim to answer these questions.
 
 
 ## Abstract  
-The Lunar Research Project for 8th, 9th, 10th-grade students is a comprehensive educational initiative designed to immerse students in lunar research, fostering scientific inquiry and promoting STEM education. This project offers a unique opportunity for students to actively engage with the Moon by observing its phases, analyzing lunar data, and drawing conclusions about its geological features. Students will collaborate, apply critical thinking skills, and utilize data from NASA and JAXA, including topographical data, terrain height, terrain slope, regolith temperature, and iron oxide abundances. By involving students in authentic lunar research, this project aims to deepen their understanding of lunar geology, inspire an interest in space science,and develop their data analysis and communication skills.
+The Lunar Research Project for 8th, 9th, 10th-grade students is a comprehensive educational initiative designed to immerse students in lunar research, fostering scientific inquiry and promoting STEM education. Students will collaborate, apply critical thinking skills, and utilize data from NASA and JAXA, including topographical data, terrain height, terrain slope, regolith temperature, and iron oxide abundances. By involving students in authentic lunar research, this project aims to deepen their understanding of lunar geology, inspire an interest in space science,and develop their data analysis and communication skills.
 
 
 ## Methodology
@@ -31,12 +31,6 @@ E) Iron Oxide Abundances (FeO): Students will investigate the presence and distr
 In the data analysis phase, students work collaboratively,draw conclusions and fill in a data analysis report. Regular meetings and discussions promote
 teamwork and communication skills. The lunar observation journal will be compiled with individual data analysis reports into a comprehensive report
 
-### 4. Communication and Publication: 
-Students will have opportunities to present their research findings to their peers, educators, and potentially the local school community through
-presentations or poster sessions. The compiled report will be published as original research.
-
-## Conclusion : 
-In conclusion, the Lunar Research Project, enriched by NASA and JAXA data and telescope observations, offers an immersive educational experience for 8th-grade students.By actively engaging with lunar research, they enhance their critical thinking skills, deepen their understanding of lunar geology, and develop a passion for space science. This project serves as a stepping stone to inspire a new generation of scientists and explorers, fostering STEM education and practical scientific inquiry.
 
 ## Photos
 Students of the group have captured a lot of moon, saturn, jupiter photos from a 6 inch Newtonian reflector telescope.
