@@ -51,5 +51,5 @@ More photos are [here](moon_photos.md)
 11) Shreyansh T. 9th D
 12) Dhruv D. 10th E.
     
-You will know more about the team [here](team1.md)
+You will know more about the team [here](team_2.md)
 
