@@ -37,6 +37,10 @@ presentations or poster sessions. The compiled report will be published as origi
 ## Conclusion : 
 In conclusion, the Lunar Research Project, enriched by NASA and JAXA data and telescope observations, offers an immersive educational experience for 8th-grade students.By actively engaging with lunar research, they enhance their critical thinking skills, deepen their understanding of lunar geology, and develop a passion for space science. This project serves as a stepping stone to inspire a new generation of scientists and explorers, fostering STEM education and practical scientific inquiry.
 
+## Photos of moon and planets captured by students using a 6 inch Newtonian reflector telescope.
 
 ![Moon](assets/images/moon-1.jpeg#moon)
+
 ![Moon](assets/images/saturn-1.jpg#moon)
+
+
