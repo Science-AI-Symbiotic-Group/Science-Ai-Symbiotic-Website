@@ -2,15 +2,16 @@
 
 We all watch moon daily high up in the skies wandering through the space. But did we ever think how beautiful and complex the surface of the moon is?
 
-Well, at our group we aim to answer these questions. 
-![group](assets/images/team-1.jpg)
+Well, at our group we aim to answer these questions.
+ 
+![group](assets/images/team-1.jpg#team1)
+
 (Some of our students with Mr Kevin at moon observations meet)
  
 
 
 ## Abstract  
-The Lunar Research Project for 8th, 9th, 10th-grade students is a comprehensive educational initiative designed to immerse students in lunar research, fostering scientific inquiry and promoting STEM education. Students will collaborate, apply critical thinking skills, and utilize data from NASA and JAXA, including topographical data, terrain height, terrain slope, regolith temperature, and iron oxide abundances. By involving students in authentic lunar research, this project aims to deepen their understanding of lunar geology, inspire an interest in space science,and develop their data analysis and communication skills.
-
+Students will collaborate, apply critical thinking skills, and utilize data from NASA and JAXA, including topographical data, terrain height, terrain slope, regolith temperature, and iron oxide abundances.
 
 ## Methodology
 The Lunar Research Project for  students will be conducted through a structured process:
@@ -28,14 +29,16 @@ D) Regolith Temperature: Data analysis will reveal temperature variations across
 E) Iron Oxide Abundances (FeO): Students will investigate the presence and distribution of iron oxide on the Moon, relating it to geological processes and lunar formation theories.
 
 ### 3. Data Analysis and Collaboration: 
-In the data analysis phase, students work collaboratively,draw conclusions and fill in a data analysis report. Regular meetings and discussions promote
-teamwork and communication skills. The lunar observation journal will be compiled with individual data analysis reports into a comprehensive report
+In the data analysis phase, students work collaboratively,draw conclusions and fill in a data analysis report. Regular meetings and discussions promote teamwork and communication skills. The lunar observation journal will be compiled with individual data analysis reports into a comprehensive report
+
 
 
 ## Photos
 Students of the group have captured a lot of moon, saturn, jupiter photos from a 6 inch Newtonian reflector telescope.
+
 More photos are [here](moon_photos.md)
-![moon](assets/images/moon-2.jpg#moon)
+
+![moon](assets/images/moon-2.jpg#moon2)
 
 ## Team
 1) Ashadieeyah P. 8th T
@@ -50,6 +53,5 @@ More photos are [here](moon_photos.md)
 10) Parv V. 8th T
 11) Shreyansh T. 9th D
 12) Dhruv D. 10th E.
-    
 
 
