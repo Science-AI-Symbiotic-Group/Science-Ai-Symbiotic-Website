@@ -2,9 +2,9 @@
     background-image: url(/assets/images/bg.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-}
+  }
 
-h2,h1 {
+h2,h1,h3 {
     color: white;
     font-size: 40px;
     text-align: center;
@@ -17,7 +17,7 @@ p,li{
 }
 
 ul{
-    text-align: center;
+  text-align: center;  
 }
 
 a:hover{
@@ -30,7 +30,7 @@ a{
     -webkit-transition-timing-function: ease; 
 }
 
-img[src*='#left']{
+img[src*='#pfp']{
   height: 300px;
   margin-top: 0px;
   margin-bottom: 20px;
@@ -43,33 +43,7 @@ img[src*='#left']{
   -webkit-transition-timing-function: ease; 
 }
 
-img[src*='#moon2']{
-  height: 400px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#moon3']{
-  height: 400px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#moon4']{
+img[src*='#moon']{
   height: 400px;
   margin-top: 0px;
   margin-bottom: 20px;
@@ -84,52 +58,30 @@ img[src*='#moon4']{
 
 
 
-img[src*='#moon5']{
-  height: 400px;
+
+
+
+
+
+
+img[src*='#jupiter']{
+  height: 200px;
   margin-top: 0px;
   margin-bottom: 20px;
   margin-left: 20px;
   margin-right: 20px;
-  float: center;
 
   -webkit-transition-property: all; 
   -webkit-transition-duration: 0.3s; 
   -webkit-transition-timing-function: ease; 
 }
 
-img[src*='#moon8']{
-  height: 400px;
+img[src*='#saturn']{
+  height: 200px;
   margin-top: 0px;
   margin-bottom: 20px;
   margin-left: 20px;
   margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#jupiter1']{
-  height: 400px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#saturn1']{
-  height: 400px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
 
   -webkit-transition-property: all; 
   -webkit-transition-duration: 0.3s; 
@@ -137,59 +89,7 @@ img[src*='#saturn1']{
 }
 
 
-img[src*='#team1']{
-  height: 400px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#team2']{
-  height: 400px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#team3']{
-  height: 400px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#team4']{
-  height: 300px;
-  margin-top: 0px;
-  margin-bottom: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  float: center;
-
-  -webkit-transition-property: all; 
-  -webkit-transition-duration: 0.3s; 
-  -webkit-transition-timing-function: ease; 
-}
-
-img[src*='#team1']{
+img[src*='#team']{
   height: 400px;
   margin-top: 0px;
   margin-bottom: 20px;
@@ -204,45 +104,28 @@ img[src*='#team1']{
 
 
 
-img[src*='#moon2']:hover{
+
+
+
+
+
+img[src*='#moon']:hover{
     transform: scale(1.2); 
 }
-
-img[src*='#moon3']:hover{
-    transform: scale(1.2); 
-}
-
-img[src*='#moon4']:hover{
-    transform: scale(1.2); 
-}
-
-img[src*='#moon5']:hover{
-    transform: scale(1.2); 
-}
-
-img[src*='#moon8']:hover{
-    transform: scale(1.2); 
-}
-
-img[src*='#team1']:hover{
-    transform: scale(2); 
-}
-
-img[src*='#team2']:hover{
-    transform: scale(2); 
-}
-
-img[src*='#team3']:hover{
-    transform: scale(2); 
-}
-
-img[src*='#team4']:hover{
-    transform: scale(2); 
+img[src*='#team']:hover{
+    transform: scale(1.6); 
 }
 
 
+img[src*='#saturn']:hover{
+  transform: scale(2);
+}
+
+img[src*='#jupiter']:hover{
+  transform: scale(2);
+}
 
 
-img[src*='#left']:hover{
+img[src*='#pfp']:hover{
     transform: scale(1.2); 
 }

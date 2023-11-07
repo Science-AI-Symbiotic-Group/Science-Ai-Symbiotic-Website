@@ -4,7 +4,7 @@ We all watch moon daily high up in the skies wandering through the space. But di
 
 Well, at our group we aim to answer these questions.
  
-![group](assets/images/team-1.jpg#team1)
+![group](assets/images/team-1.jpg#team)
 
 (Some of our students with Mr Kevin at moon observations meet)
  
@@ -41,17 +41,17 @@ More photos are [here](moon_photos.md)
 ![moon](assets/images/moon-2.jpg#moon2)
 
 ## Team
-1) Ashadieeyah P. 8th T
-2) Anushreya P. 8th A
-3) Priyamvada S. 8th A
-4) Vaishnavi R. 8th A
-5) Jagruti S. 9th D
-6) Shaurya C. 8th T
-7) Vihaan G. 8th T
-8) Abhinav M. 8th T
-9) Sai G. 8th T
-10) Parv V. 8th T
-11) Shreyansh T. 9th D
-12) Dhruv D. 10th E.
+- Ashadieeyah P. 8th T
+- Anushreya P. 8th A
+- Priyamvada S. 8th A
+- Vaishnavi R. 8th A
+- Jagruti S. 9th D
+- Shaurya C. 8th T
+- Vihaan G. 8th T
+- Abhinav M. 8th T
+- Sai G. 8th T
+- Parv V. 8th T
+- Shreyansh T. 9th D
+- Dhruv D. 10th E.
 
 
