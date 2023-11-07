@@ -41,6 +41,7 @@ Students of the group have captured a lot of moon, saturn, jupiter photos from a
 ![moon](assets/images/moon-2.jpg#moon)
 
 ## Team
+<<<<<<< HEAD
 1) Ashadieeyah P. 8th 
 2) Anushreya P. 8th 
 3) Priyamvada S. 8th 
@@ -53,5 +54,19 @@ Students of the group have captured a lot of moon, saturn, jupiter photos from a
 10) Parv V. 8th 
 11) Shreyansh T. 9th 
 12) Dhruv D. 10th
+=======
+- Ashadieeyah P. 8th T
+- Anushreya P. 8th A
+- Priyamvada S. 8th A
+- Vaishnavi R. 8th A
+- Jagruti S. 9th D
+- Shaurya C. 8th T
+- Vihaan G. 8th T
+- Abhinav M. 8th T
+- Sai G. 8th T
+- Parv V. 8th T
+- Shreyansh T. 9th D
+- Dhruv D. 10th E.
+>>>>>>> 565b0ace0ee09de79eb98f9e27a70e234d752233
 
 
