@@ -1,6 +1,6 @@
 # The Science-AI Symbiotic Group
 
-The Science-AI Symbiotic Group is an initiative by Kevin Luke, science teacher at [Seven Square Academy Naigaon (SSAN)](https://naigaon.sevensquareacademy.org/) where students are guided to perform multiple projects that include the usage of Science and Ai/Computer Science hence the name "Science Ai Symbiotic". 
+The Science-AI Symbiotic Group is an initiative by Kevin Luke, science teacher at [Seven Square Academy Naigaon (SSAN)](https://naigaon.sevensquareacademy.org/) where students are guided to perform multiple projects that include the usage of Science and AI/Computer Science hence the name "Science-AI Symbiotic". 
 
 It was envisioned by the Principal of the school Mrs. Deepinder Kaur Chadda to revolutionise education by introducing students to research early on. Then the idea was brought to fruit by Kevin Luke who already is into cutting edge research at TIFR, Mumbai.
 

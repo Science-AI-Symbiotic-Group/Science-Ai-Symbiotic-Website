@@ -12,26 +12,13 @@ Our students captured the photos of the moon and planets by learning how to alig
 ![moon6](assets/images/moon-12.jpg#moon)
 ![moon6](assets/images/moon-13.jpg#moon)
 
-## Saturn/Jupiter Photos
-![jupiter](assets/images/jupiter-1.jpg#jupiter)
-=======
-### Moon Photos 
-![moon2](assets/images/moon-2.jpg#moon)
-![moon3](assets/images/moon-3.jpg#moon)
-![moon4](assets/images/moon-4.jpg#moon)
-![moon5](assets/images/moon-6.jpg#moon)
-![moon6](assets/images/moon-8.jpg#moon)
 
 ### Saturn/Jupiter Photos
 ![jupiter](assets/images/jupiter-1.jpg#jupiter)
 ![saturn](assets/images/saturn-3.jpg#saturn)
->>>>>>> 565b0ace0ee09de79eb98f9e27a70e234d752233
-
-![saturn](assets/images/saturn-3.jpg#saturn)
 
 
 
-<<<<<<< HEAD
 ## Our team photos
 
 Our team having the good vibes while observations. For us it is good vibes, good life.
@@ -40,10 +27,6 @@ Our team having the good vibes while observations. For us it is good vibes, good
 ![grou3](assets/images/team-3.jpg#team)
 ![grou4](assets/images/team-4.jpg#team)
 ![grou4](assets/images/team13.jpg#team)
-=======
-![group2](assets/images/team-2.jpg#team)
-![grou3](assets/images/team-3.jpg#team)
-![grou4](assets/images/team-4.jpg#team)
->>>>>>> 565b0ace0ee09de79eb98f9e27a70e234d752233
+
 
 
