@@ -1,23 +1,30 @@
 # Photos from our project meetups
 
-### Moon Photos 
-![moon2](assets/images/moon-2.jpg#moon2)
-![moon3](assets/images/moon-3.jpg#moon3)
-![moon4](assets/images/moon-4.jpg#moon4)
-![moon5](assets/images/moon-6.jpg#moon5)
-![moon6](assets/images/moon-8.jpg#moon8)
+Our students captured the photos of the moon and planets by learning how to align and use a 6 inch Bresser Messier reflector Newtonian telescope.
 
-### Saturn/Jupiter Photos
-![jupiter](assets/images/jupiter-1.jpg#jupiter1)
+## Moon Photos 
+![moon2](assets/images/moon-2.jpg#moon)
+![moon3](assets/images/moon-3.jpg#moon)
+![moon4](assets/images/moon-4.jpg#moon)
+![moon5](assets/images/moon-6.jpg#moon)
+![moon6](assets/images/moon-8.jpg#moon)
+![moon6](assets/images/moon-12.jpg#moon)
+![moon6](assets/images/moon-13.jpg#moon)
 
-![saturn](assets/images/saturn-3.jpg#saturn3)
+## Saturn/Jupiter Photos
+![jupiter](assets/images/jupiter-1.jpg#jupiter)
+
+![saturn](assets/images/saturn-3.jpg#saturn)
 
 
 
-### Our team photos
+## Our team photos
 
-![group2](assets/images/team-2.jpg#team2)
-![grou3](assets/images/team-3.jpg#team3)
-![grou4](assets/images/team-4.jpg#team4)
+Our team having the good vibes while observations. For us it is good vibes, good life.
+![group](assets/images/team-1.jpg#team)
+![group2](assets/images/team-2.jpg#team)
+![grou3](assets/images/team-3.jpg#team)
+![grou4](assets/images/team-4.jpg#team)
+![grou4](assets/images/team13.jpg#team)
 
 
