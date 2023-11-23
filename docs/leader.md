@@ -1,6 +1,6 @@
 # Our Leader!
 
-![Image of our leader](https://lukekevin.github.io/profile-picture.jpg#pfp)
+![group7](assets/images/team22.jpg#team)
 
 Hi there, I am Kevin Luke and it is amazing if you have ventured here to know more about my Science-AI Symbiotic Group. 
 

@@ -1,13 +1,8 @@
 # Watch the Moon, Learn the Moon Project
 
-We all watch moon daily high up in the skies wandering through the space. But did we ever think how beautiful and complex the surface of the moon is?
-
-Well, at our group we aim to answer these questions.
+We all watch moon daily high up in the skies wandering through the space. But did we ever think how beautiful and complex the surface of the moon is? Well, at our group we aim to answer this question.
  
-![group](assets/images/team-1.jpg#team)
-
-(Some of our students with Mr Kevin at moon observations meet)
- 
+![group](assets/images/team-1.jpg#team1)
 
 
 ## Abstract  

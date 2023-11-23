@@ -14,4 +14,4 @@ Our team recognized the need for an accessible and cost-effective solution to co
 This is a Example text
 
 ## Team
-1) Sai G. 8th, Aarush M. 12th, Priya Y. 8th, Jeevan M. 8th
+1) Sai G. 8th, Aarush Y. 12th, Priya Y. 8th, Jeevan M. 8th

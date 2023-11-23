@@ -13,14 +13,14 @@ In a world facing the challenges of climate change and a growing demand for clea
 
 For the design, we chose a scale model approach, ensuring that the turbines, landscape, and surroundings were accurately represented. Each wind turbine was handcrafted to resemble its full-scale counterparts, capturing the essence of these majestic structures.
 
-![group](assets/images/team8.jpg#teamturbine) 
-![group](assets/images/team5.jpg#teamturbine)
-
 
 
 ## Educational Component
 
 The model wind turbine farm served not only as an artistic endeavor but also as an educational tool. It was an opportunity to inform the public, especially young minds, about the benefits of wind energy and its role in mitigating climate change.
 
+
+![group](assets/images/team8.jpg#teamturbine) 
+![group](assets/images/team5.jpg#teamturbine)
 ## Team
 Sarthak R. 10th, Vivek Y. 10th, Aditya J. 10th, Alok Y. 10th, Anshuman S. 10th, Kanishk Z. 10th, Aryan K. 10th, Niraj S. 9th, Shreyansh T. 9th, Jeevan M. 8th, Vaishnavi R. 8th, Anushreya P. 8th, Gauri V. 8th   
