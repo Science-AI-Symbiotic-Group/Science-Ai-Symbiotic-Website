@@ -6,11 +6,12 @@ site_name: Science Ai Symbiotic Group SSAN
 nav:
   - Home: index.md
   - Leader: leader.md
+  - Members : members.md
   - Wind Turbine Farm: turbinefarm.md
   - Moon Observation: moonobservation.md
   - Plant Health Detection: planthealth.md
   - Electrolysis based soil fertility : soilfertility.md
-  
+
 theme: 
   name: dracula
 
