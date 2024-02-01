@@ -24,12 +24,19 @@ D) Regolith Temperature: Data analysis will reveal temperature variations across
 E) Iron Oxide Abundances (FeO): Students will investigate the presence and distribution of iron oxide on the Moon, relating it to geological processes and lunar formation theories.
 
 ### 3. Data Analysis and Collaboration: 
-In the data analysis phase, students work collaboratively,draw conclusions and fill in a data analysis report. Regular meetings and discussions promote teamwork and communication skills. The lunar observation journal will be compiled with individual data analysis reports into a comprehensive report
+In the data analysis phase, students work collaboratively,draw conclusions and fill in a data analysis report. Regular meetings and discussions promote teamwork and communication skills. The lunar observation journal will be compiled with individual data analysis reports into a comprehensive report.
 
 
 
 ## Photos
 Students of the group have captured a lot of moon, saturn, jupiter photos from a 6 inch Newtonian reflector telescope.
+
+## Preprint on Researchsquare
+Our preprint has appeared on Researchsquare which details the overview of the project. The paper is available here [https://doi.org/10.21203/rs.3.rs-3829963/v1](https://doi.org/10.21203/rs.3.rs-3829963/v1). 
+
+## Podcasts
+Students took part in podcasts regarding various aspects of the project to share what they feel about astronomy, lunar geology, space exploration. This gives a glimpse on how young students view the world. The youtube channel is here [https://www.youtube.com/@science-ai-symbiotic-group](https://www.youtube.com/@science-ai-symbiotic-group).
+
 
 ### More photos are [here](moon_photos.md)
 

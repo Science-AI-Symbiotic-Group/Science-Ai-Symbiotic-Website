@@ -9,7 +9,8 @@ In this group there exists no hierarchy, there is no command structure. Everyone
 ## All our Projects
 
 * Wind Turbine - [More info about it here](turbinefarm.md)
-* Watch the Moonlearn the moon - [More info about it here](moonobservation.md)
+* Watch the Moon Learn the Moon - [More info about it here](moonobservation.md)
 * AI Plant Health detection - [More info about it here](planthealth.md)
 * Electrolysis based soil fertility  - [More info about it here](soilfertility.md)
+* Coding and AI for ART - [More info about it here](codingart.md)
 

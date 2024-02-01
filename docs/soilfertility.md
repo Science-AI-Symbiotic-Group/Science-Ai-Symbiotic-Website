@@ -1,6 +1,7 @@
 # Electrolysis based soil fertility 
 
 ## Introduction
+![group](assets/images/team35.jpg#team)
 Hydrogen gas has been shown to improve soil fertility by increasing nutrient availability, improving root growth, and increasing microbial activity. One way to produce hydrogen gas for soil fertilization is through electrolysis, which is the process of using electricity to split water molecules into hydrogen and oxygen gas.
 
 ## Methodology
@@ -8,6 +9,9 @@ To make a hydrogen generator from electrolysis, you will need a power supply, tw
 
 ## Conclusion
 Using hydrogen gas for soil fertilization has a number of benefits, including increased crop yields, improved crop quality, reduced pesticide use, and improved soil health.
-
+![group](assets/images/team36.jpg#team)
+![group](assets/images/team37.jpg#team)
+![group](assets/images/team38.jpg#team)
 ## Team
 Vaibhav S. 7th, Akshat P. 7th, Aryan Y. 7th, Akshita T. 7th,
+
