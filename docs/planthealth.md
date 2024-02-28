@@ -2,6 +2,8 @@
 
 ## Introduction
 ![group](assets/images/team45.jpg#team)
+![group](assets/images/team46.jpg#team)
+
 Our team of dedicated students is proud to present our pioneering project, an AI-driven leaf disease detection system developed using Python and Keras. We have harnessed the power of artificial intelligence to transform the future of farming, ensuring healthier crops and increased agricultural sustainability.
 
 ## The Challenge
@@ -16,6 +18,5 @@ Our team recognized the need for an accessible and cost-effective solution to co
 1) Sai G. 8th, Aarush Y. 12th
 
 
-![group](assets/images/team46.jpg#team)
-![group](assets/images/team47.jpg#team)
-![group](assets/images/team48.jpg#team)
+
+

@@ -29,6 +29,7 @@ Students with extensive experience in dancing danced to popular Bollywood songs.
 ### 3) Debut of the videos at SSAN Annual Day 28/01/2024 
 ![group](assets/images/team28.jpg#team)
 ![group](assets/images/team29.jpg#team)
+
 Initial, limited screening of the animated motion picture and the dance video was done at the school annual day to enthusiastic  positive response from the audience.
 
 ### 4) Release of videos on Youtube after further modifications
@@ -38,23 +39,10 @@ In future the videos will be released after undergoing further refinements to po
 In future a research paper will be authored by Mr. Kevin Luke and the students. The paper will detail the work conducted and will show how coding and AI can be integrated at school level to enable logical and analytical thinking among the students therby leading to creating of meaningful and impactful art.
 
 ### Tech Team
-Sai G. 8th (assistant coder), Shaurya C. 8th (coding support), Akshat P. 7th (coding support)
+Sai G. 8th (assistant programmer), Shaurya C. 8th (support programmer), Akshat P. 7th ( tech support)
 ### Art Team
 Zara W. 7th (Direction, Screenplay, Cast), Akshita T. 7th (Screenplay), Natalea N. 7th (Cast, Narration), Swayam P. 7th (Cast), Aryan Y. 7th (Cast), Vaibhav S. 7th (Cast)
 
-### Misc Photos
-We created a lot of memories while carrying out this project. Here you will find a glimpse.
-![group](assets/images/team26.jpg#team)
-![group](assets/images/team25.jpg#team)
-![group](assets/images/team27.jpg#team)
-![group](assets/images/team32.jpg#team)
-![group](assets/images/team34.jpg#team)
-![group](assets/images/team39.jpg#team)
-![group](assets/images/team40.jpg#team)
-![group](assets/images/team41.jpg#team)
-![group](assets/images/team42.jpg#team)
-![group](assets/images/team43.jpg#team)
-![group](assets/images/team44.jpg#team)
 
 
 

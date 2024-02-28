@@ -23,21 +23,4 @@ Our students captured the photos of the moon and planets by learning how to alig
 
 
 
-## Our team photos
-
-Our team having the good vibes while observations. For us it is good vibes, good life.
-
-![group2](assets/images/team-2.jpg#team)
-![group](assets/images/team-1.jpg#team)
-![group3](assets/images/team-3.jpg#team)
-![group4](assets/images/team-4.jpg#team)
-![group5](assets/images/team13.jpg#team)
-![group6](assets/images/team14.jpg#team)
-![group7](assets/images/team15.jpeg#team)
-![group7](assets/images/team16.jpeg#team)
-![group2](assets/images/team19.jpeg#team)
-![group7](assets/images/team18.jpg#team)
-![group7](assets/images/team17.jpeg#team)
-![group7](assets/images/team20.png#team)
-![group7](assets/images/team24.jpg#team)
 

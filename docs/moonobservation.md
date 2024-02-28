@@ -2,7 +2,7 @@
 
 We all watch moon daily high up in the skies wandering through the space. But did we ever think how beautiful and complex the surface of the moon is? Well, at our group we aim to answer this question.
  
-![group](assets/images/team-1.jpg#team1)
+![moon](assets/images/moon-2.jpg#moon)
 
 
 ## Abstract  
@@ -31,16 +31,18 @@ In the data analysis phase, students work collaboratively,draw conclusions and f
 ## Photos
 Students of the group have captured a lot of moon, saturn, jupiter photos from a 6 inch Newtonian reflector telescope.
 
-## Preprint on Researchsquare
-Our preprint has appeared on Researchsquare which details the overview of the project. The paper is available here [https://doi.org/10.21203/rs.3.rs-3829963/v1](https://doi.org/10.21203/rs.3.rs-3829963/v1). 
+## Preprint on NASA ADS
+Our preprint has appeared on Cornell University's Arxiv and NASA ADS library which details the overview of the project. 
+
+The paper is available at NASA ADS: [https://ui.adsabs.harvard.edu/abs/2024arXiv240201856L/abstract](https://ui.adsabs.harvard.edu/abs/2024arXiv240201856L/abstract)
 
 ## Podcasts
-Students took part in podcasts regarding various aspects of the project to share what they feel about astronomy, lunar geology, space exploration. This gives a glimpse on how young students view the world. The youtube channel is here [https://www.youtube.com/@science-ai-symbiotic-group](https://www.youtube.com/@science-ai-symbiotic-group).
+Students took part in podcasts regarding various aspects of the project to share what they feel about astronomy, lunar geology, space exploration. This gives a glimpse on how young students view the world. The youtube channel is here [https://www.youtube.com/@science-ai-symbiotic-group](https://www.youtube.com/@science-ai-symbiotic-group)
 
 
 ### More photos are [here](moon_photos.md)
 
-![moon](assets/images/moon-2.jpg#moon)
+
 
 ## Team
 1) Ashadieeyah P. 8th 
